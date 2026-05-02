@@ -1,0 +1,23 @@
+
+{
+  "menu": [
+    {
+      "name": "Grilled Chicken",
+      "type": "main",
+      "is_vegan": false,
+      "allergens": [],
+      "description": "Fresh grilled chicken with herbs"
+    },
+    {
+      "name": "Vegan Pasta",
+      "type": "main",
+      "is_vegan": true,
+      "allergens": ["gluten"],
+      "description": "Pasta with tomato sauce and vegetables"
+    }
+  ],
+  "hours": {
+    "weekday": "10 AM - 11 PM",
+    "weekend": "10 AM - 1 AM"
+  }
+}
